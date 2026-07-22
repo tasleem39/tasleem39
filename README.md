@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**tasleem39/tasleem39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Tasleem
 
-Here are some ideas to get you started:
+### ARTIFICIAL INTELLIGENCE & MACHINE LEARNING Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Web Development
+
+🌱 Currently learning React & Node.js
+
+📫 Email: tasleem3918@gmail.com
+
+---
+
+## 🚀 Skills
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Git
+- GitHub
+
+---
+
+## 📌 Projects
+
+🍽 Restaurant Website
+
+🌦 Weather App
+
+📚 Student Management System
+
+---
+
+⭐ Thanks for visiting my profile!

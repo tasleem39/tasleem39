@@ -1,35 +1,78 @@
+# Hi, I'm Tasleem Ahmad 👋
 
-# Hi 👋, I'm Tasleem
+### B.E. Artificial Intelligence & Machine Learning Student | Python | Machine Learning | NLP
 
-### ARTIFICIAL INTELLIGENCE & MACHINE LEARNING Student
+I'm an undergraduate student at Francis Xavier Engineering College, Tamil Nadu, India, interested in building practical AI/ML solutions and understanding how machine learning can address real-world problems.
 
-💻 Passionate about Web Development
+My current work includes machine-learning projects, natural-language processing, semantic search, and an email-forensics prototype. I'm also developing my foundations in research and scientific machine learning.
 
-🌱 Currently learning React & Node.js
-
-📫 Email: tasleem3918@gmail.com
-
----
-
-## 🚀 Skills
-
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Git
-- GitHub
+- 🎓 B.E. Artificial Intelligence & Machine Learning, 2024–2028
+- 💻 Main language: Python
+- 🔬 Interests: Machine Learning, NLP, Scientific Machine Learning, AI for Scientific Discovery
+- 📍 Tamil Nadu, India
+- 📫 Email: [tasleem3918@gmail.com](mailto:tasleem3918@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/tasleem33](https://linkedin.com/in/tasleem33)
 
 ---
 
-## 📌 Projects
+## Technical Skills
 
-🍽 Restaurant Website
-
-🌦 Weather App
-
-📚 Student Management System
+- **Programming:** Python, C, SQL (basic)
+- **Machine Learning & Data:** Scikit-learn, NumPy, Pandas, Matplotlib, data preprocessing, feature engineering, model evaluation
+- **NLP & Search:** Hugging Face, NLP, FAISS, semantic search
+- **Knowledge Representation:** NetworkX, knowledge graphs
+- **Backend & APIs:** FastAPI, Uvicorn, REST APIs
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
 
 ---
 
-⭐ Thanks for visiting my profile!
+## Selected Projects
+
+### [EmailForensics](https://github.com/tasleem39/EmailForensics)
+An email-forensics prototype that parses `.eml` files, checks email authentication signals (SPF/DMARC and DKIM signature presence), examines received-header IP information, and applies rule-based fraud scoring to produce a structured JSON report.
+
+**Technologies:** Python, DNS lookups, email parsing
+
+### BIS-Connect — AI-Powered Indian Standards Mapping Platform
+A project developed for Smart India Hackathon (SIH 2026), designed to analyse tender documents and map requirements to relevant Bureau of Indian Standards compliance schemes.
+
+**Technologies:** Python, FastAPI, Hugging Face, FAISS, NetworkX
+
+### Resume-to-Job Description Matcher
+A tool that analyses resume text against job descriptions using NLP preprocessing and vector similarity to estimate relevance and highlight potential skill gaps.
+
+**Technologies:** Python, Scikit-learn, NLP
+
+### EcoCash — IoT Reverse Vending System
+An IoT-based recycling concept that evaluates recyclable materials using sensors and credits a contactless smart card, with a dashboard for bin-fill monitoring.
+
+**Technologies:** Python, IoT, NFC/RFID, Vercel
+
+---
+
+## Experience
+
+**Machine Learning Intern — Corizo Online**
+- Practised training, testing, and evaluating machine-learning models using Python libraries.
+- Worked with data processing, feature engineering, and model validation workflows.
+- Applied NLP techniques and heuristic rules to text analysis tasks.
+
+---
+
+## Research Interests
+
+- Machine Learning
+- Scientific Machine Learning
+- Natural Language Processing
+- AI for Scientific Discovery
+- Knowledge Representation and Semantic Search
+
+---
+
+## Let's Connect
+
+- **Email:** [tasleem3918@gmail.com](mailto:tasleem3918@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tasleem33](https://linkedin.com/in/tasleem33)
+- **GitHub:** [github.com/tasleem39](https://github.com/tasleem39)
+
+Thanks for visiting my profile!

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="360" viewBox="0 0 1500 360" role="img" aria-labelledby="title desc">
+<title id="title">Tasleem Ahmad — AI and Machine Learning</title>
+<desc id="desc">A dark navy and blue technology-themed banner with abstract connected nodes.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b1220"/>
+    <stop offset="52%" stop-color="#123c79"/>
+    <stop offset="100%" stop-color="#087e9b"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#60a5fa"/>
+    <stop offset="100%" stop-color="#67e8f9"/>
+  </linearGradient>
+</defs>
+<rect width="1500" height="360" rx="24" fill="url(#bg)"/>
+<g fill="none" stroke="#93c5fd" stroke-opacity=".22" stroke-width="2">
+  <path d="M1030 40L1160 105L1290 45L1410 120L1330 255L1180 290L1060 220L1160 105L1330 255L1410 120"/>
+  <path d="M1030 40L1060 220M1160 105L1180 290M1290 45L1330 255"/>
+</g>
+<g fill="url(#accent)">
+  <circle cx="1030" cy="40" r="7"/><circle cx="1160" cy="105" r="8"/><circle cx="1290" cy="45" r="6"/>
+  <circle cx="1410" cy="120" r="8"/><circle cx="1330" cy="255" r="7"/><circle cx="1180" cy="290" r="6"/><circle cx="1060" cy="220" r="7"/>
+</g>
+<g fill="#fff" font-family="Segoe UI, Arial, sans-serif">
+  <text x="100" y="145" font-size="25" letter-spacing="6" fill="#bae6fd">HELLO, I'M</text>
+  <text x="96" y="220" font-size="66" font-weight="700">TASLEEM AHMAD</text>
+  <rect x="100" y="248" width="105" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="100" y="294" font-size="25" fill="#dbeafe">ARTIFICIAL INTELLIGENCE  ·  MACHINE LEARNING</text>
+</g>
+</svg>

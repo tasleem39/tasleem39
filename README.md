@@ -37,7 +37,7 @@ An email-forensics prototype that parses `.eml` files, checks email authenticati
 ### [BIS-Connect — AI-Powered Indian Standards Mapping Platform](https://github.com/tasleem39/BIS-Connect)
 A project developed for Smart India Hackathon (SIH 2026), designed to analyse tender documents and map requirements to relevant Bureau of Indian Standards compliance schemes.
 
-- **Live Demo:** [sih-project-6-osrp.onrender.com](https://sih-project-6-osrp.onrender.com)
+- **Live Demo:** [bisconnect.onrender.com](https://sih-project-6-osrp.onrender.com)
 - **Technologies:** Python, FastAPI, Hugging Face, FAISS, NetworkX
 
 ### Resume-to-Job Description Matcher
@@ -53,8 +53,8 @@ An IoT-based recycling concept that evaluates recyclable materials using sensors
 ### [Stock Price Prediction](https://github.com/tasleem39/Stock_price_prediction)
 A machine-learning project that uses historical stock market data and engineered technical indicators to train and evaluate forecasting models.
 
-  **Live Demo:** [stock-price-prediction-orpin-iota.vercel.app](https://stock-price-prediction-orpin-iota.vercel.app/)
-**Technologies:** Python, yfinance, Pandas, Scikit-learn, data visualization
+- **Live Demo:** [stock-price-prediction-orpin-iota.vercel.app](https://stock-price-prediction-orpin-iota.vercel.app/)
+- **Technologies:** Python, yfinance, Pandas, Scikit-learn, data visualization
 
 ---
 

@@ -43,6 +43,12 @@ I'm a B.E. Artificial Intelligence and Machine Learning undergraduate at **Franc
 <img src="https://img.shields.io/badge/NetworkX-Graphs-555555?style=flat-square" alt="NetworkX" />
 <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square" alt="Matplotlib" />
 
+<br/><br/>
+
+### 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasleem39&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
 </div>
 
 ## 🚀 Featured Projects
@@ -109,6 +115,8 @@ I'm a B.E. Artificial Intelligence and Machine Learning undergraduate at **Franc
 
 **Technologies:** Python, IoT, NFC/RFID, Vercel
 
+**Links:** ⚡ [Live Demo](https://ecocash-vert.vercel.app/)
+
 ---
 
 ## 💼 Experience
@@ -126,14 +134,6 @@ I'm a B.E. Artificial Intelligence and Machine Learning undergraduate at **Franc
 - Natural Language Processing
 - AI for Scientific Discovery
 - Semantic Search and Knowledge Representation
-
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasleem39&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-</div>
 
 ## 🤝 Let's Connect
 

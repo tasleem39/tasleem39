@@ -53,6 +53,7 @@ An IoT-based recycling concept that evaluates recyclable materials using sensors
 ### [Stock Price Prediction](https://github.com/tasleem39/Stock_price_prediction)
 A machine-learning project that uses historical stock market data and engineered technical indicators to train and evaluate forecasting models.
 
+  **Live Demo:** [stock-price-prediction-orpin-iota.vercel.app](https://stock-price-prediction-orpin-iota.vercel.app/)
 **Technologies:** Python, yfinance, Pandas, Scikit-learn, data visualization
 
 ---

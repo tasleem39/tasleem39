@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=190&section=header&text=TASLEEM%20AHMAD&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Artificial%20Intelligence%20%26%20Machine%20Learning%20Undergraduate&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Tasleem Ahmad profile banner" />
+<img src="https://raw.githubusercontent.com/tasleem39/tasleem39/main/assets/profile-banner.svg" width="100%" alt="Tasleem Ahmad — Artificial Intelligence and Machine Learning" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Machine+Learning+Engineer;Exploring+NLP+%26+Semantic+Search;Building+Practical+AI%2FML+Projects;Interested+in+Scientific+Machine+Learning" alt="Typing introduction" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+Machine+Learning+Engineer;Exploring+NLP+%26+Semantic+Search;Building+Practical+AI%2FML+Projects;Interested+in+Scientific+Machine+Learning" alt="Animated introduction" />
 </a>
 
 <p>
@@ -47,34 +47,69 @@ I'm a B.E. Artificial Intelligence and Machine Learning undergraduate at **Franc
 
 ## 🚀 Featured Projects
 
-### 📧 [EmailForensics — Email Threat Detection](https://github.com/tasleem39/EmailForensics)
-An email-forensics prototype that parses `.eml` files, checks authentication signals such as SPF/DMARC and DKIM signature presence, examines received-header IP information, and applies rule-based fraud scoring to produce a structured report.
+### 1. EmailForensics — Email Threat Detection
 
-- 🌐 **Live demo:** [emailforensics-murex.vercel.app](https://emailforensics-murex.vercel.app/)
-- **Stack:** Python, email parsing, DNS lookups, rule-based analysis
+> Email-forensics prototype for inspecting suspicious email messages and producing structured analysis reports.
 
-### 🏛️ [BIS-Connect — Indian Standards Mapping](https://github.com/tasleem39/BIS-Connect)
-A Smart India Hackathon 2026 team project concept for analysing tender/product requirements and identifying relevant Bureau of Indian Standards, related standards, and certification information.
+- Parses `.eml` files and examines email authentication signals such as SPF/DMARC and DKIM signature presence.
+- Analyses received-header IP information and applies rule-based fraud scoring.
+- Deployed web interface for trying the project.
 
-- 🌐 **Live demo:** [sih-project-6-osrp.onrender.com](https://sih-project-6-osrp.onrender.com)
-- **Stack:** Python, FastAPI, Hugging Face, FAISS, NetworkX
-- *Team project — see the repository for original project and contributor attribution.*
+**Technologies:** Python, email parsing, DNS lookups, rule-based analysis
 
-### 📈 [Stock Price Prediction](https://github.com/tasleem39/Stock_price_prediction)
-A machine-learning project using historical market data, feature engineering, and model evaluation to explore stock-price forecasting.
+**Links:** 📄 [Repository](https://github.com/tasleem39/EmailForensics) · ⚡ [Live Demo](https://emailforensics-murex.vercel.app/)
 
-- 🌐 **Live demo:** [stock-price-prediction-orpin-iota.vercel.app](https://stock-price-prediction-orpin-iota.vercel.app/)
-- **Stack:** Python, yfinance, Pandas, Scikit-learn
+---
 
-### 📄 Resume-to-Job Description Matcher
-A project that compares resume content with job descriptions using NLP preprocessing and vector similarity to estimate relevance and highlight potential skill gaps.
+### 2. BIS-Connect — AI-Powered Indian Standards Mapping
 
-- **Stack:** Python, Scikit-learn, NLP
+> Smart India Hackathon 2026 team project focused on mapping tender and product requirements to relevant Indian Standards.
 
-### ♻️ EcoCash — IoT Reverse Vending System
-A team project concept for evaluating recyclable materials, crediting a contactless smart card, and monitoring bin fill levels through a dashboard.
+- Analyses tender/product requirements to identify relevant Bureau of Indian Standards and certification information.
+- Uses semantic search and a knowledge-graph approach to support standards discovery.
+- Team project; refer to the original repository for project history and contributor attribution.
 
-- **Stack:** Python, IoT, NFC/RFID, Vercel
+**Technologies:** Python, FastAPI, Hugging Face, FAISS, NetworkX
+
+**Links:** 📄 [Repository](https://github.com/tasleem39/BIS-Connect) · ⚡ [Live Demo](https://sih-project-6-osrp.onrender.com) · 🔗 [Original Team Repository](https://github.com/Raja-ML-22/SIH-PROJECT)
+
+---
+
+### 3. Stock Price Prediction
+
+> Machine-learning project exploring forecasting with historical stock-market data and engineered features.
+
+- Retrieves historical market data and prepares features for model training.
+- Evaluates forecasting models using a time-aware workflow.
+- Includes a deployed interface for project demonstration.
+
+**Technologies:** Python, yfinance, Pandas, Scikit-learn
+
+**Links:** 📄 [Repository](https://github.com/tasleem39/Stock_price_prediction) · ⚡ [Live Demo](https://stock-price-prediction-orpin-iota.vercel.app/)
+
+---
+
+### 4. Resume-to-Job Description Matcher
+
+> NLP-based tool for comparing resume content with job descriptions.
+
+- Applies text preprocessing and vector similarity to estimate relevance.
+- Highlights potential skill gaps between a resume and a job description.
+
+**Technologies:** Python, Scikit-learn, NLP
+
+---
+
+### 5. EcoCash — IoT Reverse Vending System
+
+> Team project concept for encouraging recycling through a smart reverse-vending workflow.
+
+- Evaluates recyclable materials using sensors.
+- Credits a contactless smart card and supports bin-fill monitoring through a dashboard.
+
+**Technologies:** Python, IoT, NFC/RFID, Vercel
+
+---
 
 ## 💼 Experience
 
@@ -92,16 +127,11 @@ A team project concept for evaluating recyclable materials, crediting a contactl
 - AI for Scientific Discovery
 - Semantic Search and Knowledge Representation
 
-## 📊 GitHub Overview
+## 📊 Most Used Languages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tasleem39&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasleem39&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=tasleem39&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tasleem39&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 </div>
 
@@ -116,7 +146,5 @@ I'm interested in connecting with people working on machine learning, NLP, and r
 <div align="center">
 
 *Thanks for visiting my profile! Feel free to explore my repositories.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer" />
 
 </div>

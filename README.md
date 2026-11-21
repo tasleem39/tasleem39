@@ -31,12 +31,14 @@ My current work includes machine-learning projects, natural-language processing,
 ### [EmailForensics](https://github.com/tasleem39/EmailForensics)
 An email-forensics prototype that parses `.eml` files, checks email authentication signals (SPF/DMARC and DKIM signature presence), examines received-header IP information, and applies rule-based fraud scoring to produce a structured JSON report.
 
-**Technologies:** Python, DNS lookups, email parsing
+- **Live Demo:** [emailforensics-murex.vercel.app](https://emailforensics-murex.vercel.app/)
+- **Technologies:** Python, DNS lookups, email parsing
 
-### BIS-Connect — AI-Powered Indian Standards Mapping Platform
+### [BIS-Connect — AI-Powered Indian Standards Mapping Platform](https://github.com/tasleem39/BIS-Connect)
 A project developed for Smart India Hackathon (SIH 2026), designed to analyse tender documents and map requirements to relevant Bureau of Indian Standards compliance schemes.
 
-**Technologies:** Python, FastAPI, Hugging Face, FAISS, NetworkX
+- **Live Demo:** [sih-project-6-osrp.onrender.com](https://sih-project-6-osrp.onrender.com)
+- **Technologies:** Python, FastAPI, Hugging Face, FAISS, NetworkX
 
 ### Resume-to-Job Description Matcher
 A tool that analyses resume text against job descriptions using NLP preprocessing and vector similarity to estimate relevance and highlight potential skill gaps.
@@ -47,6 +49,11 @@ A tool that analyses resume text against job descriptions using NLP preprocessin
 An IoT-based recycling concept that evaluates recyclable materials using sensors and credits a contactless smart card, with a dashboard for bin-fill monitoring.
 
 **Technologies:** Python, IoT, NFC/RFID, Vercel
+
+### [Stock Price Prediction](https://github.com/tasleem39/Stock_price_prediction)
+A machine-learning project that uses historical stock market data and engineered technical indicators to train and evaluate forecasting models.
+
+**Technologies:** Python, yfinance, Pandas, Scikit-learn, data visualization
 
 ---
 

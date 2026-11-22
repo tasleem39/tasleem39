@@ -115,7 +115,7 @@ I'm a B.E. Artificial Intelligence and Machine Learning undergraduate at **Franc
 
 **Technologies:** Python, IoT, NFC/RFID, Vercel
 
-**Links:** ⚡ [Live Demo](https://ecocash-vert.vercel.app/)
+**Links:** 📄 [Repository](https://github.com/tasleem39/ecocash) · ⚡ [Live Demo](https://ecocash-vert.vercel.app/)
 
 ---
 
